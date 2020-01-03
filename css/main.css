@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.title {
+    color: azure;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 300%;
+}
